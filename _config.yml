@@ -1,7 +1,13 @@
 remote_theme: thelehhman/plainwhite-jekyll
 
+
+plainwhite:
+  name: Alumni Matematica Verona
+  tagline: L`associazione
+  date_format: "%b %-d, %Y"
+
 title: Alumni Matematica Verona
-description: L'associazione
+description: L`associazione
 
 logo: logo.png
 
