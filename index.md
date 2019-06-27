@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Alumni Matematica Verona
 
-You can use the [editor on GitHub](https://github.com/alumni-matematica-verona/alumni-matematica-verona/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+È nata l'associazione Alumni Matematica Verona!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Perché
+Per noi *insegnanti*, *ricercatori puri e/o applicati* e *professionisti della matematica*.
 
-### Markdown
+Ognuno di noi opera oggi in un diverso contesto sociale, professionale e geografico. Questa ricchezza di esperienze sarà la base su cui fonderemo la vita dell'associazione.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Associarsi risponde a tre grandi necessità:
 
-```markdown
-Syntax highlighted code block
+* La prima riguarda tutti gli alumni che hanno scelto di intraprendere il percorso dell'insegnamento. Pensiamo che creare un luogo e un'occasione per condividere le esperienze accumulate in aula possa non solo aiutare a rendere più morbido l'inserimento dei neolaureati in questo mondo, ma anche migliorare la quotidianità di chi insegnante lo è da qualche anno e vuole sviluppare un proprio metodo didattico, andando quindi a cercare un riscontro nei propri colleghi all'interno dell'associazione.
+* La seconda necessità coinvolge gli alumni che si occupano di ricerca pura e applicata, i quali potranno trovare nell'associazione un luogo di scambio di idee il cui valore aggiunto è la comune estrazione accademica. Avendo compiuto gli stessi studi negli stessi corsi di laurea si abbatte la barriera comunicativa innalzata dall'eterogeneità formativa che tutti gli altri luoghi di dibattito inevitabilmente mostrano. Non secondario è il fatto che ristabilire la connessione tra ricerca pura e applicata è lo spirito con cui è nata la magistrale in matematica di Verona. La mancanza di un luogo in cui perpetrare questa unione dopo il termine degli studi è uno dei punti in cui l'associazione trova lo spazio per esistere.
+* La terza necessità nasce dal mondo dell'industria e dalla realtà aziendale. L'associazione si propone di creare l'occasione di mettere in comunicazione gli alumni che hanno scelto questi percorsi con il fine di riallineare continuamente il punto di vista sullo stato dell'arte, delle tecnologie e delle sfide affrontate, mantenendo alta la spendibilità professionale di questa categoria di alumni.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Chi
+Tutti gli ex-alunni dei corsi di laurea in matematica sono i benvenuti.
 
-1. Numbered
-2. List
+### Dove
+* Verona. Quando ci incontreremo, sarà nella città dove abbiamo studiato.
+* Ovunque. Condivideremo un ampio spazio virtuale.
 
-**Bold** and _Italic_ and `Code` text
+### Come
+Presto saranno aperte le iscrizioni all'associazione. Iscriviti al nostro GoogleGroup per rimanere aggiornato sugli eventi.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alumni-matematica-verona/alumni-matematica-verona/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/almathvr'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script> 
