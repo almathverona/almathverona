@@ -22,18 +22,4 @@ Tutti gli ex-alunni dei corsi di laurea in matematica sono i benvenuti.
 * Ovunque. Condivideremo un ampio spazio virtuale.
 
 ### Come
-Presto saranno aperte le iscrizioni all'associazione. Iscriviti al nostro (GoogleGroup)[https://groups.google.com/d/forum/almathverona] per rimanere aggiornato sugli eventi.
-
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/almathvr'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script> 
+Presto saranno aperte le iscrizioni all'associazione. Iscriviti al nostro (https://groups.google.com/d/forum/almathverona)[GoogleGroup] per rimanere aggiornato sugli eventi.
