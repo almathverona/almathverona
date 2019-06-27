@@ -1,5 +1,3 @@
-# Alumni Matematica Verona
-
 È nata l'associazione Alumni Matematica Verona!
 
 ### Perché
