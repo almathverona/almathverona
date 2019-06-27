@@ -13,7 +13,7 @@ Per noi **insegnanti**, **ricercatori puri e/o applicati** e **professionisti de
 
 
 ### Chi
-Tutti gli ex-alunni dei corsi di laurea in matematica sono i benvenuti.
+Tutti gli ex-alunni dei corsi di laurea in matematica dell'Università degli Studi di Verona sono i benvenuti.
 
 ### Dove
 * Verona. Quando ci incontreremo, sarà nella città dove abbiamo studiato.
