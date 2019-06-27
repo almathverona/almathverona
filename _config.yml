@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
+remote_theme: thelehhman/plainwhite-jekyll
 
 title: Alumni Matematica Verona
-description: Semel semper
+description: L'associazione
 
 logo: logo.png
 
