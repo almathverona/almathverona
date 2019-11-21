@@ -8,5 +8,8 @@ logo: logo.png
 plugins:
   - jekyll-multiple-languages-plugin
 
+languages: ["it", "en"]
+exclude_from_localizations: ["css"]
+
 github:
   is_project_page: false
