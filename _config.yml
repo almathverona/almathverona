@@ -5,5 +5,8 @@ description: L`associazione
 
 logo: logo.png
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
 github:
   is_project_page: false
