@@ -5,5 +5,15 @@ description: L`associazione
 
 logo: logo.png
 
+plugins:
+  - jekyll-multiple-languages-plugin
+
+languages: ["it", "en"]
+exclude_from_localizations: ["css"]
+defaultLang: en
+languageNames:
+  it: Italiano
+  en: English
+
 github:
   is_project_page: false

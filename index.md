@@ -2,6 +2,11 @@
 bundle exec jekyll serve
 more information available at the following link
 https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll -->
+---
+title: Associazione Alumni
+language: italiano
+---
+
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
 
