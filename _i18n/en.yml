@@ -1,0 +1,11 @@
+site:
+  name: Alumni Association
+  tagline: tagline
+  description: description
+  keywords: keywords
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: Heading 
+    p1: p1 headline

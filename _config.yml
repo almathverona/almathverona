@@ -10,6 +10,10 @@ plugins:
 
 languages: ["it", "en"]
 exclude_from_localizations: ["css"]
+defaultLang: en
+languageNames:
+  it: Italiano
+  en: English
 
 github:
   is_project_page: false

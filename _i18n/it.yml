@@ -1,0 +1,11 @@
+site:
+  name: Name 
+  tagline: tagline_it
+  description: descrizione
+  keywords: keywords_it
+
+main:
+  welcomeSection: Sezione Benvenuto
+    anchor: ancora 
+    heading: heading_it
+    p1: p1 titolo
