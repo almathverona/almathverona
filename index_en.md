@@ -1,6 +1,6 @@
 ---
-title: Associazione Alumni
-language: italiano
+title: Alumni Association Verona
+language: English
 ---
 
 
