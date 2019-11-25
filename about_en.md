@@ -9,7 +9,3 @@ permalink_it:   /aproposito/
 ## Miny Title
 
 This is a test page
-
-Let's see if the following link is working
-
-<a href="/" >link</a>
