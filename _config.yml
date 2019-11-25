@@ -15,5 +15,8 @@ languageNames:
   it: Italiano
   en: English
 
+# Google Analytics
+google_analytics: UA-153291505-1
+
 github:
   is_project_page: false
