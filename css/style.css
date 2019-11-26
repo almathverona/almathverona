@@ -7,23 +7,32 @@
 .Map #map-alumni {
 	width: 100%;
 	height: 500px;
-}@import url(http://fonts.googleapis.com/css?family=Raleway);
+}
+
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+
 #cssmenu,
 #cssmenu ul,
 #cssmenu ul li,
 #cssmenu ul li a,
+
+
+
 #cssmenu #menu-button {
   margin: 0;
   padding: 0;
   border: 0;
   list-style: none;
   line-height: 1;
-  display: block;
+  line-height: 0;
+  display: inline-block;
   position: relative;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  text-align: center;
 }
+
 #cssmenu:after,
 #cssmenu > ul:after {
   content: ".";
@@ -38,12 +47,17 @@
 }
 #cssmenu {
   width: auto;
-  font-family: Raleway, sans-serif;
+  /*font-family: Raleway, sans-serif;*/
   line-height: 1;
+  line-height: 0;
+  text-align: center;
 }
 #cssmenu > ul {
-  background: #3db2e1;
+  /*background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);*/ 
+  background-color: transparent;
 }
+
 #cssmenu > ul > li {
   float: left;
   -webkit-perspective: 1000px;
@@ -63,12 +77,13 @@
 }
 #cssmenu > ul > li > a {
   padding: 16px 20px;
-  font-size: 14px;
+  font-size: 18px;
   color: #ffffff;
   letter-spacing: 1px;
   text-transform: uppercase;
   text-decoration: none;
   background: #3db2e1;
+  background-color: transparent;
   -webkit-transition: all .3s;
   -moz-transition: all .3s;
   -o-transition: all .3s;
@@ -186,4 +201,11 @@
 }
 #cssmenu.small-screen #menu-button.menu-opened:before {
   background: #dff2fa;
+}
+
+#cssmenu #menu-button { 
+    color: #fff; 
+    text-align: center; 
+    background-color: #159957; 
+    background-image: linear-gradient(120deg, #155799, #159957); 
 }
