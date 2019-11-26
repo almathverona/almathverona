@@ -12,16 +12,6 @@ https://help.github.com/en/github/working-with-github-pages/testing-your-github-
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
 
-<div id='cssmenu'>
-<ul>
-   <li class='active'><a href='#'>Home</a></li>
-   <li><a href='#'>Products</a></li>
-   <li><a href='#'>Company</a></li>
-   <li><a href='#'>Contact</a></li>
-</ul>
-</div>
-
-
 È nata l'associazione Alumni Matematica Verona!
 
 ### Perché
