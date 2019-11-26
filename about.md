@@ -3,7 +3,6 @@ layout: default
 title: About
 language: english
 permalink: /about/
-permalink_it:   /aproposito/
 ---
 
 ## Miny Title
@@ -12,4 +11,4 @@ This is a test page
 
 Let's see if the following link is working
 
-<a href="/" >link</a>
+<a href="?_en" >link</a>

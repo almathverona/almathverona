@@ -2,7 +2,7 @@
 layout: default
 title: About
 language: english
-permalink: /about/
+permalink: /about_en/
 permalink_it:   /aproposito/
 ---
 
