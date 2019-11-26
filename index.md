@@ -7,8 +7,20 @@ bundle exec jekyll serve
 more information available at the following link
 https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll -->
 
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+<script src="script.js"></script>
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
+
+<div id='cssmenu'>
+<ul>
+   <li class='active'><a href='#'>Home</a></li>
+   <li><a href='#'>Products</a></li>
+   <li><a href='#'>Company</a></li>
+   <li><a href='#'>Contact</a></li>
+</ul>
+</div>
+
 
 È nata l'associazione Alumni Matematica Verona!
 

@@ -2,13 +2,10 @@
 layout: default
 title: About
 language: english
-permalink: /about/
+permalink: /about_en/
+permalink_it:   /aproposito/
 ---
 
 ## Miny Title
 
 This is a test page
-
-Let's see if the following link is working
-
-<a href="?_en" >link</a>
