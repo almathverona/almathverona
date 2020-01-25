@@ -1,8 +1,6 @@
-<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-<script src="script.js"></script>
-
-<link href="css/style.css" rel="stylesheet" type="text/css">
-
+---
+layout: home
+---
 
 **Statuto dell’Associazione Alumni Matematica Verona**
 
@@ -445,3 +443,4 @@ Per quanto non espressamente previsto dal presente statuto si fa
 riferimento alle leggi ed ai regolamenti vigenti, ed ai principi
 generali dell’ordinamento giuridico. Per ogni controversia sulle materie
 regolate dal presente statuto è competente il Foro di Verona.
+
