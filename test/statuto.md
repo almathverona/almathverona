@@ -1,7 +1,3 @@
----
-layout: home
----
-
 **Statuto dell’Associazione Alumni Matematica Verona**
 
 Articolo 1
