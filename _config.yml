@@ -23,7 +23,6 @@ email: almath.verona@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Sito officiale dell'Associazione Alumni dei CdL in Matematica Applicata
     e Mathematics dell'Università degli studi Verona
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.almathverona.it" 
 twitter_username: No-Twitter(yet)
 github_username: almathverona
