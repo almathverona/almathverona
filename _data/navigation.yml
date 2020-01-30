@@ -4,7 +4,9 @@ main:
     url: /statuto/
   - title: "About"
     url: /about/
+  - title: "Mappa Alumni"
+    url: /alumni/
   - title: "Come raggiungerci"
     url: /contacts/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Veronesi tutti math!"
+    url: /evento_2020/
