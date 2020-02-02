@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Statuto"
+    url: /statuto/
+  - title: "About"
+    url: /about/
+  - title: "Come raggiungerci"
+    url: /contacts/
+  - title: "Sitemap"
+    url: /sitemap/
