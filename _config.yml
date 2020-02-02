@@ -52,15 +52,13 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 author:
-  name   : "Alumni Matematica Verona"
-  avatar : "assets/images/logo.png"  # placed in /images/
-  bio    : "Sito web ufficiale dell'Associazione Alumni di Matematics e Matematica Applicata dell'Università degli studi di Verona"
-  email  : "almath.verona@gmail.com" 
-  uri    : ""
-  location: "Verona"
+  name     : "Alumni Matematica Verona"
+  avatar   : "assets/images/logo.png"  # placed in /images/
+  bio      : "Sito web ufficiale dell'Associazione Alumni di Matematics e Matematica Applicata dell'Università degli studi di Verona"
+  email    : "almath.verona@gmail.com" 
+  uri      : ""
+  location : "Verona"
+  links    :
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/almathverona"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/almathverona"
