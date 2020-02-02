@@ -3,9 +3,7 @@ layout: home
 author_profile: default
 ---
 
-[//]: # (-------------------------------)
 <link href="css/style.css" rel="stylesheet" type="text/css">
-[//]: # (-------------------------------)
 
 ### Mappa degli Alumni
 
