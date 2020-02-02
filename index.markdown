@@ -6,15 +6,11 @@ layout: home
 author_profile: default
 ---
 
-[//]: # (-------------------------------)
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us3.list-manage.com","uuid":"6f6f5c432a5b4f77ddeca0a2c","lid":"0452123c81","uniqueMethods":true}) })</script>
-[//]: # (-------------------------------)
 
 
 
-[//]: # (-------------------------------)
 <link href="css/style.css" rel="stylesheet" type="text/css">
-[//]: # (-------------------------------)
 
 È nata l'associazione Alumni Matematica Verona!
 
