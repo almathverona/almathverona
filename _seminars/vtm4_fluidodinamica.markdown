@@ -8,7 +8,11 @@ importance: -20210125 # date in format '-YYYYMMDD'
 
 ### La fluidodinamica: Cos'è e cosa c'entra con la matematica applicata
 
-Recording: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ae6cdd1b-33fe-40a1-a9cb-acbb01642b77)
+**Speaker**: Simone Zuccher
+
+**Date**: January 17, 2021 at 9:00 PM CET on Zoom. [Click for more info](https://www.di.univr.it/?ent=seminario&id=5282).
+
+**Recording**: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ae6cdd1b-33fe-40a1-a9cb-acbb01642b77)
 
 Gli esempi di fluidi in moto sono innumerevoli: il sangue che scorre nelle nostre vene, l'aria che entra ed esce dai nostri polmoni, la cioccolata calda che beviamo, la combustione di aria e benzina nel motore della nostra auto, il flusso d'aria sulle ali di un velivolo, il moto della lava che fuoriesce da un vulcano, la propagazione di uno tsunami, la formazione ed il percorso di un uragano.
 

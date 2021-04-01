@@ -6,9 +6,11 @@ img: #/assets/img/12.jpg
 importance: -20201104 # date in format '-YYYYMMDD'
 ---
 
-How mathematical models can reveal and explore emergent phenomena that would otherwise remain unobserved and poorly understood: population dynamics and numerical simulations based on real experimental data.
+**Speakers**: Valeria Caliaro and Giada Fiandaca
 
-Recording: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bf521188-afe5-4264-9c52-ac6901619843)
+**Date**: November 4, 2020 at 9:00 PM CET on Zoom. [Click for more info](https://www.di.univr.it/?ent=seminario&id=5197).
+
+**Recording**: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=bf521188-afe5-4264-9c52-ac6901619843)
 
 The seminar is conducted by *Valeria Caliaro* and *Giada Fiandaca*. They will talk about how mathematical models can reveal and allow the exploration of emergent phenomena that would otherwise remain unobserved and poorly understood by looking at population dynamics and numerical simulations based on real experimental data.
 

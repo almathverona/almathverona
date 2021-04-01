@@ -60,7 +60,7 @@ wikidata_id: # your wikidata id
 contact_note: >
   To contact the association, please send us an email.
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-153291505-1 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------

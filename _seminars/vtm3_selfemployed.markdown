@@ -6,11 +6,15 @@ img: #/assets/img/vtm3-thumbnail.png
 importance: -20210112 # date in format '-YYYYMMDD'
 ---
 
-Science, Technology, Engineering, and Mathematics (STEM)
 
-Recording: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1d351b51-30c5-4edb-afec-acae016601d9)
 
-STEM graduates usually embark in one of these three careers in the 10 years following graduation:
+**Speaker**: Alexandr Honchar
+
+**Date**: January 12, 2021 at 9:00 PM CET on Zoom. [Click for more info](https://www.di.univr.it/?ent=seminario&id=5267).
+
+**Recording**: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1d351b51-30c5-4edb-afec-acae016601d9)
+
+Graduates in Science, Technology, Engineering, and Mathematics (STEM) usually embark in one of these three careers in the 10 years following graduation:
 
 * Research (university or corporate laboratories)
 * Consultancy (big 4 or smaller IT companies)
