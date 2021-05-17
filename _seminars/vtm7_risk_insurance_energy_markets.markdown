@@ -10,6 +10,8 @@ importance: -20210512 # date in format '-YYYYMMDD'
 
 **Date**: May 12, 2021 at 9:00 PM CEST on Zoom. [Click for more info](https://www.di.univr.it/?ent=seminario&id=5380).
 
+**Recording**: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bdbb12e-7178-48d1-95ff-ad2601574884)
+
 ### Energy market
 
 In recent years, the production of **renewable power** has grown to reduce the environmental impact of traditional sources like oil and coal. However, this shift comes at a cost: renewable sources are highly dependent on weather factors such as temperature, wind and precipitation, all of which are hard to predict. As a consequence, these energy sources are less reliable and power prices appear extremely volatile, introducing challenges in terms of financial risk management. For this reason, the accurate modelling of energy markets is a key component and one of the big concerns of mathematical finance. In this talk I will discuss two of the main tasks within the modelling of **energy markets**, namely spot price modelling and derivation of forward prices. I will then present the problem of models calibration and discuss my recent work on calibration of an infinite dimensional model for forward curves with neural networks.
