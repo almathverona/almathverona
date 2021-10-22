@@ -10,6 +10,8 @@ importance: -20210617 # date in format '-YYYYMMDD'
 
 **Date**: June 17, 2021 at 9:00 PM CEST on Zoom. [Click for more info](https://www.di.univr.it/?ent=seminario&id=5388).
 
+**Recording**: [Link](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0b4575a2-1c22-4b12-900b-ad4a01561ec1)
+
 **Title**: Quantum groups: algebraic objects arising from statistical physics
 
 **Abstract**: Quantum groups are deformations of certain associative algebras. Appearing first in physics literature in the field of integrable quantum systems, they have been formalized as mathematical objects since the late 80's, opening a rich area of research still under active development. In this gentle introduction to the subject, we will provide the basic constructions  and show the relationship with integrable lattice models in statistical mechanics. The only prerequisite is a familiarity with linear algebra.
